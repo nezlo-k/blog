@@ -1,0 +1,78 @@
+---
+---
+
+@import 'main';
+
+/* Nezlok palette — matching Mission Control / Property Console */
+
+:root[data-mode="dark"],
+[data-mode="dark"] {
+  /* Backgrounds */
+  --body-bg: #1A1B2E;
+  --sidebar-bg: #141522;
+  --main-bg: #1A1B2E;
+  --mask-bg: rgba(20, 21, 34, 0.95);
+  --card-bg: #222338;
+  --card-hovor-bg: #2A2B40;
+  --tb-odd-bg: #1A1B2E;
+  --tb-even-bg: #222338;
+  --tb-border-color: #2A2B40;
+  --btn-backtotop-bg: #222338;
+  --code-bg: #222338;
+  --tag-bg: rgba(99, 102, 241, 0.1);
+  --tag-hover: rgba(99, 102, 241, 0.2);
+  --search-wrapper-bg: #222338;
+  --search-tag-bg: rgba(99, 102, 241, 0.1);
+  --input-focus-border-color: #6366F1;
+  --checkbox-color: #34D399;
+  --checkbox-checked: #34D399;
+  --blockquote-border-color: #6366F1;
+  --avatar-border-color: #2A2B40;
+  --shimmer-bg: linear-gradient(90deg, #222338 0%, #2A2B40 50%, #222338 100%);
+
+  /* Text */
+  --text-color: #E2E4EA;
+  --text-muted-color: #7A7D8E;
+  --heading-color: #E2E4EA;
+  --label-color: #7A7D8E;
+  --link-color: #6366F1;
+  --link-underline-color: rgba(99, 102, 241, 0.3);
+  --btn-backtotop-color: #E2E4EA;
+  --relate-post-date: #6B6E7F;
+  --categories-hover-bg: rgba(99, 102, 241, 0.1);
+  --categories-icon-hover-color: #6366F1;
+
+  /* Sidebar */
+  --sidebar-active-color: #6366F1;
+  --sidebar-muted-color: #7A7D8E;
+  --site-title-color: #E2E4EA;
+  --site-subtitle-color: #7A7D8E;
+  --nav-cursor-color: #6366F1;
+  --sidebar-btn-bg: #222338;
+  --sidebar-btn-color: #E2E4EA;
+
+  /* Accent */
+  --toc-highlight: #6366F1;
+
+  /* Code syntax */
+  --highlight-bg-color: #222338;
+  --highlighter-rouge-color: #34D399;
+  --highlight-lineno-color: #6B6E7F;
+}
+
+/* Selection */
+[data-mode="dark"] ::selection {
+  background: rgba(99, 102, 241, 0.25);
+  color: #E2E4EA;
+}
+
+/* Scrollbar */
+[data-mode="dark"] ::-webkit-scrollbar-thumb {
+  background: #2A2B40;
+}
+[data-mode="dark"] ::-webkit-scrollbar-thumb:hover {
+  background: #3A3B50;
+}
+[data-mode="dark"] ::-webkit-scrollbar-track {
+  background: #1A1B2E;
+}
