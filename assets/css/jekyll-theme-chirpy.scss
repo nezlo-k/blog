@@ -1,13 +1,16 @@
 ---
 ---
 
-@import 'main';
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == "production" -%}
+  .bundle
+{%- endif -%}
+';
 
-/* Nezlok palette — matching Mission Control / Property Console */
+/* Nezlok palette — matching Mission Control dark theme */
 
-:root[data-mode="dark"],
 [data-mode="dark"] {
-  /* Backgrounds */
   --body-bg: #1A1B2E;
   --sidebar-bg: #141522;
   --main-bg: #1A1B2E;
@@ -28,9 +31,7 @@
   --checkbox-checked: #34D399;
   --blockquote-border-color: #6366F1;
   --avatar-border-color: #2A2B40;
-  --shimmer-bg: linear-gradient(90deg, #222338 0%, #2A2B40 50%, #222338 100%);
 
-  /* Text */
   --text-color: #E2E4EA;
   --text-muted-color: #7A7D8E;
   --heading-color: #E2E4EA;
@@ -42,7 +43,6 @@
   --categories-hover-bg: rgba(99, 102, 241, 0.1);
   --categories-icon-hover-color: #6366F1;
 
-  /* Sidebar */
   --sidebar-active-color: #6366F1;
   --sidebar-muted-color: #7A7D8E;
   --site-title-color: #E2E4EA;
@@ -51,28 +51,14 @@
   --sidebar-btn-bg: #222338;
   --sidebar-btn-color: #E2E4EA;
 
-  /* Accent */
   --toc-highlight: #6366F1;
 
-  /* Code syntax */
   --highlight-bg-color: #222338;
   --highlighter-rouge-color: #34D399;
   --highlight-lineno-color: #6B6E7F;
 }
 
-/* Selection */
 [data-mode="dark"] ::selection {
   background: rgba(99, 102, 241, 0.25);
   color: #E2E4EA;
-}
-
-/* Scrollbar */
-[data-mode="dark"] ::-webkit-scrollbar-thumb {
-  background: #2A2B40;
-}
-[data-mode="dark"] ::-webkit-scrollbar-thumb:hover {
-  background: #3A3B50;
-}
-[data-mode="dark"] ::-webkit-scrollbar-track {
-  background: #1A1B2E;
 }
