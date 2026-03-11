@@ -1,5 +1,5 @@
 ---
-title: Idea Necrosis
+title: Idea necrosis
 date: 2025-08-23
 categories: [Reflection]
 tags: [ai, creativity, addiction]

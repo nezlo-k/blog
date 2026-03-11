@@ -1,5 +1,5 @@
 ---
-title: Track Record Matters
+title: Track record matters
 date: 2024-02-08
 categories: [Leadership]
 tags: [career, reputation, networking]

@@ -1,5 +1,5 @@
 ---
-title: Run Towards The Things You Hate, Not Away
+title: Run towards the things you hate, not away
 date: 2024-02-05
 categories: [Leadership]
 tags: [leadership, career, resilience]

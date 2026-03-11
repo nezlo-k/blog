@@ -1,5 +1,5 @@
 ---
-title: Are We Still Going For Ice Cream?
+title: Are we still going for ice cream?
 date: 2024-10-09
 categories: [Leadership]
 tags: [vision, communication]

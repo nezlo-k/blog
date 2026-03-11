@@ -1,5 +1,5 @@
 ---
-title: Jumping to Conclusions
+title: Jumping to conclusions
 date: 2024-01-31
 categories: [Leadership]
 tags: [leadership, career, decision-making]
