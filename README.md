@@ -22,4 +22,3 @@ Push to `main` → auto-deploys in ~60 seconds.
 ## Links
 
 - **Blog:** https://blog.nezlok.com
-- **Analytics:** https://nezlok.goatcounter.com
