@@ -1,6 +1,6 @@
 ---
 title: Hello, blog.
-date: 2025-08-17
+date: 2019-12-01
 categories: [Meta]
 tags: [intro]
 ---
