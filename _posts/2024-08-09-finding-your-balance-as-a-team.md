@@ -3,6 +3,9 @@ title: "Finding your balance as a team"
 date: 2024-08-09
 categories: [Leadership]
 tags: [leadership, teamwork, hiring]
+image:
+  path: /assets/img/team-balance.png
+  alt: "Finding your balance as a team"
 ---
 Building a high-performing team is all about balance, ensuring that each individual's strengths complement the others and that together, they form a cohesive whole. One of the most effective tools for identifying these dynamics is **Gallup StrengthsFinders**, which helps you pinpoint the areas where each team member excels and where they might need support.
 
