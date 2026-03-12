@@ -3,6 +3,9 @@ title: "Leading vs. contributing"
 date: 2025-04-28
 categories: [Leadership]
 tags: [leadership, management, career]
+image:
+  path: /assets/img/leading-contributing.png
+  alt: "Leading vs. Contributing"
 ---
 One of the biggest traps in leadership is assuming that just because you enjoy leading, the people working under you will want to as well. Leadership and contribution are two different roles, each with its own challenges, rewards, and suitability for different personality types.
 
