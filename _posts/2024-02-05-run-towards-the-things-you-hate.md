@@ -3,6 +3,9 @@ title: Run towards the things you hate, not away
 date: 2024-02-05
 categories: [Leadership]
 tags: [leadership, career, resilience]
+image:
+  path: /assets/img/run-towards-hate.png
+  alt: "Run towards the things you hate"
 ---
 
 Run towards the thing you hate, not away. If politics with idiots is your kryptonite, then that's the thing people need to see you never shying away from. Even if it sucks, even if it hurts.
