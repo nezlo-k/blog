@@ -3,6 +3,9 @@ title: "Action produces information"
 date: 2024-12-02
 categories: [Leadership]
 tags: [leadership, execution, decision-making]
+image:
+  path: /assets/img/action-info.png
+  alt: "Action produces information"
 ---
 
 In fast-moving teams and organizations, speed is often more important than perfection. A **bias towards action** is key: a good plan, violently executed now, is better than a perfect plan that takes too long to materialize. Waiting for perfect conditions or overanalyzing situations often leads to paralysis. The faster you act, the quicker you gather information, whether that action succeeds or fails.
