@@ -38,18 +38,8 @@ This is particularly important for creative types, who may feel strongly about t
 
 **Your job is to help execute that mission, not redefine it.**
 
-## Transversal service to the mission
-
-It's critical to understand that transversal functions, like IT, Security, Legal, HR, Finance, and other enabling teams, are also in service to the mission, just like any other department. These areas may not directly deliver the product, but they play a key role in enabling the mission.
-
-However, because these functions are more removed from the core product delivery, they must rely on data the most to ensure they are actually contributing to the mission.
-
-The *invitation to build process cathedrals that are in service to a profession are constant, but this may not be in service to the mission*. Transversal activities must use data to continuously validate their alignment. If what they are building isn't directly driving the mission forward, it needs to be adjusted or minimized. If the mission calls for speed, then security should focus on enabling fast product delivery while maintaining necessary protections, not locking everything down at the cost of it. Likewise, governance functions might over-focus on creating detailed compliance reports that, while important, don't directly help ship the product faster or improve outcomes.
-
-Equally, this continuous validation of being on mission via data applies to the teams building the product. If they find themselves going on adventures that stray from the company's mission, they also need to course-correct. *Leadership must use data* to ensure that everyone is effective in working towards the company's objectives, targets, and goals. *It shouldn't be a guess, data is the tool that keeps everyone, including the product teams, aligned and accountable.*
-
 ## Staying on mission is non-stop
 
 Falling off mission, even for a moment, costs us time we cannot afford to lose. Staying on mission isn't a one-time decision, it's a relentless pursuit. Every leader, every team, every contributor needs to be locked in and committed to this ongoing process of alignment, or risk being left behind.
 
-Data plays a critical role in making sure that each effort we pursue can be connected back to the mission. But we all must make it an intentional, forever part of our work.
+The test is simple: can you draw a straight line from what you're doing to the mission? If it takes three paragraphs to explain the connection, you're probably off mission.
