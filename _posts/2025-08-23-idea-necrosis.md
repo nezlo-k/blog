@@ -3,6 +3,9 @@ title: Idea necrosis
 date: 2025-08-23
 categories: [Reflection]
 tags: [ai, creativity, addiction]
+image:
+  path: /assets/img/idea-necrosis.png
+  alt: "Idea necrosis"
 ---
 
 Over the last weeks, I've started to be aware of a noticeable decline in my ability to generate new ideas on my own. Instead, what comes to mind is a compulsion or desire to reach for my phone and ask ChatGPT.
