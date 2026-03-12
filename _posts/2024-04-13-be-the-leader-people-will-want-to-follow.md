@@ -3,6 +3,9 @@ title: Be the leader people will want to follow
 date: 2024-04-13
 categories: [Leadership]
 tags: [leadership, career]
+image:
+  path: /assets/img/leader-follow.png
+  alt: "Be the leader people will want to follow"
 ---
 
 Always be on the path of being the leader people want to follow.
