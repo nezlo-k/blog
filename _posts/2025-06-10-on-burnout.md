@@ -160,4 +160,4 @@ Ultimately, I would hope we reach a place where you feel comfortable raising thi
 
 Still, there are resources not connected to the management of the company that can be used, including mental health lines, doctors, and other.
 
-All of you do incredible work, but as the classic phrase goes; you can do anything, but you can't do everything. And sometimes, maybe it's just as important to recognize when you need to do nothing (or something, for yourself).
+I believe no one wakes up wanting to do a bad job. People want to do good work, but as the classic phrase goes; you can do anything, but you can't do everything. And sometimes, maybe it's just as important to recognize when you need to do nothing (or something, for yourself).
