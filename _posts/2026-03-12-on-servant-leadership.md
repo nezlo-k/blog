@@ -7,7 +7,7 @@ image:
   path: /assets/img/servant-leadership.png
   alt: "On servant leadership"
 ---
-Let's get controversial for a moment. The number of people I've met who claim to be servant leaders and can actually ship can be counted on one hand. And this isn't an exaggeration.
+The number of people I've met who claim to be servant leaders and can actually ship can be counted on one hand. And this isn't an exaggeration.
 
 Claiming you're a servant leader is often a red flag for me, unless you're in a position to handpick and staff your own team. Moreover, you need to understand how your business operates well enough to evaluate whether the people you're serving are doing their jobs effectively. In too many cases, "I'm a servant leader" ends up meaning, "I let my team do whatever they want, whether or not they know what they're doing."
 
