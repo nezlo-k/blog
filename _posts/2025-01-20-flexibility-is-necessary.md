@@ -3,6 +3,9 @@ title: "Flexibility is necessary"
 date: 2025-01-20
 categories: [Leadership]
 tags: [leadership, management, adaptability]
+image:
+  path: /assets/img/flexibility.png
+  alt: "Flexibility is necessary"
 ---
 > *On Monday you will be told this is the decision.*
 >
