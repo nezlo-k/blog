@@ -3,6 +3,9 @@ title: Loyalty is reserved for performance
 date: 2025-03-14
 categories: [Leadership]
 tags: [leadership, career, performance]
+image:
+  path: /assets/img/loyalty-performance.png
+  alt: "Loyalty is reserved for performance"
 ---
 
 I suspect for many of you younger people today, most of you do not believe in company loyalty or being loyal to a company for any prolonged period of time.
