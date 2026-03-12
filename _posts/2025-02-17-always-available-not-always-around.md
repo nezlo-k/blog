@@ -3,6 +3,9 @@ title: "Always available, not always around"
 date: 2025-02-17
 categories: [Leadership]
 tags: [leadership, delegation, autonomy]
+image:
+  path: /assets/img/always-available.png
+  alt: "Always available, not always around"
 ---
 One thing I understood much later in my career is how awesome it is to be a guest in your own house. Once you've built a capable team, it's essential to take a step back and let them operate independently. By doing this, you foster a sense of ownership and resilience within the team, allowing leaders to emerge and team members to take on greater responsibility.
 
