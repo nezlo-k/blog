@@ -3,6 +3,9 @@ title: "Affinity distance"
 date: 2024-07-22
 categories: [Leadership]
 tags: [leadership, teamwork, culture]
+image:
+  path: /assets/img/affinity-distance.png
+  alt: "Affinity distance"
 ---
 In building a successful, high-performance team, **affinity distance** is arguably more important than physical or operational distance. While physical distance is about geographic separation, and operational distance is about the quality of communication and coordination, **affinity distance** measures something deeper, how aligned and connected team members feel with each other on a cultural and relational level. Even when teams sit in the same room, high affinity distance can exist, leading to disconnects and underperformance.
 Affinity distance is shaped by three key aspects: **values, trust, and interdependence**.
