@@ -3,6 +3,9 @@ title: Do more than just your job
 date: 2026-01-22
 categories: [Leadership]
 tags: [leadership, ownership, culture]
+image:
+  path: /assets/img/do-more.png
+  alt: "Do more than just your job"
 ---
 
 The company actually needs people to do **more** than just their job. Historically this is how things strived to be great.
