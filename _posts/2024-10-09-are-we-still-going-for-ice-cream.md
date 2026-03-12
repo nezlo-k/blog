@@ -3,6 +3,9 @@ title: Are we still going for ice cream?
 date: 2024-10-09
 categories: [Leadership]
 tags: [vision, communication]
+image:
+  path: /assets/img/ice-cream.png
+  alt: "Are we still going for ice cream?"
 ---
 
 One thing a leader must always do is cast vision. Constantly.
