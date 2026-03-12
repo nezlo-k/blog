@@ -3,6 +3,9 @@ title: Don't be a lone wolf
 date: 2021-10-06
 categories: [Leadership]
 tags: [leadership, management]
+image:
+  path: /assets/img/lone-wolf.png
+  alt: "Don't be a lone wolf"
 ---
 
 From a management and leadership perspective, it's my firm belief that you should never be a lone wolf.
