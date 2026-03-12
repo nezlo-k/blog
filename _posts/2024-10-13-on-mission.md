@@ -14,13 +14,13 @@ Right now, more than ever, we don't have the luxury of working the way we used t
 
 When you take a job, the first thing you should do is evaluate the company's mission. Do you believe in it? Can you get behind what the company is trying to achieve? If not, stop right there. No matter how appealing the role, the team, the responsibilities, or the compensation is, belief in the mission is foundational and must come first. Once you're aligned with it, you can move on to consider whether the specific job, team, and environment fit you. But *the mission comes first*. Without that, you'll either struggle or worse, **you will find yourself succeeding in ways that ultimately hurt the company's goals.**
 
-### The mission is non-negotiable
+## The mission is non-negotiable
 
 > *Everything you do in your job role is in service of the mission. You didn't join the support function to then serve the mission of building great products. You joined the mission to build great products, and you do that through your function. The same goes for every role in each department. **The mission comes first, and your role is the function you use to deliver on it.** It's not the other way around.*
 
 If you joined your company thinking that you primarily signed up to be part of a specific team, and that your first duty was to your job role or expertise, you're misaligned. **The first thing you did when you joined was sign up to the mission of the company.**
 
-### On mission vs. mission adjacent
+## On mission vs. mission adjacent
 
 Not everything you do at work is truly on mission. Some activities are _mission adjacent_, they feel important but don't directly contribute to the company's goals. Others are just off mission, despite seeming valuable.
 
@@ -28,7 +28,7 @@ For example, imagine someone rigidly following a process that actually damages t
 
 *We're not paid to spend time in off-mission or mission-adjacent activities*, and there needs to be a sense of urgency to get out of them and back to delivering tangible results that move things forward in a meaningful way. Every hour spent on these distractions is time not spent on the mission, and that's a direct loss of progress. Leadership needs to recognize when this happens and correct course immediately.
 
-### You are compensated to drive the mission
+## You are compensated to drive the mission
 
 When you're hired by a company, your compensation is tied to your ability to drive forward the mission. You may do that through your expertise, your title, your knowledge, or your skills, but you are not defined by those things. You're brought on board to leverage your capabilities in service of that mission.
 
@@ -38,7 +38,7 @@ This is particularly important for creative types, who may feel strongly about t
 
 **Your job is to help execute that mission, not redefine it.**
 
-### Transversal service to the mission
+## Transversal service to the mission
 
 It's critical to understand that transversal functions, like IT, Security, Legal, HR, Finance, and other enabling teams, are also in service to the mission, just like any other department. These areas may not directly deliver the product, but they play a key role in enabling the mission.
 
