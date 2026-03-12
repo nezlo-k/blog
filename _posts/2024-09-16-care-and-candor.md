@@ -3,6 +3,9 @@ title: "The care and candor checklist"
 date: 2024-09-16
 categories: [Leadership]
 tags: [leadership, feedback, management]
+image:
+  path: /assets/img/care-candor.png
+  alt: "The care and candor checklist"
 ---
 One of the most important takeaways from [The 5 Levels of Leadership](https://www.amazon.fr/Levels-Leadership-Maximize-Potential-English-ebook/dp/B00FOVTKHO/) is the Care and Candor Checklist. This is often a critically missing element in many people as they become leaders, and it can be seen at all levels, from junior all the way to SVP.
 
