@@ -9,6 +9,8 @@ image:
 ---
 ***"A leader without followers is just someone taking a walk."*** The first rule of building a successful organization is becoming a leader worth following.
 
+![Be the Leader](/assets/img/slide-leader-follow.png)
+
 One of the perennial pieces of advice I give to others is, "Never work for someone you don't want to become." For me, this is an inverse rule, I strive to be the boss I wish I had. Sometimes this means being tough, sometimes overly generous, but always being just another person on the journey.
 
 Your leadership style will be unique to you, and that's where the challenge lies. Not every approach will resonate with everyone, and that's completely normal. The key is to consistently aim to be the leader people _want_ to follow. When you're not looking, people should advocate for you. When you start something new, people should seek to join your team. These are signs that you've cultivated not just authority, but relationship and influence.

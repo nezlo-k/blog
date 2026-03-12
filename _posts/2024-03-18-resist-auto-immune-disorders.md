@@ -4,6 +4,8 @@ date: 2024-03-18
 categories: [Leadership]
 tags: [leadership, culture, teamwork]
 ---
+![Resist Auto-Immune Disorders](/assets/img/slide-auto-immune.png)
+
 Beyond maintaining decorum, leaders must be vigilant in preventing the organizational equivalent of an auto-immune disorder, where teams, departments, or individuals turn against one another. Management is inherently about navigating "messy people problems," but if you find that most of your meetings are consumed by discussions about personalities, politics, or intra-departmental conflicts, you have a serious issue to address.
 
 One key metric to assess is how often leadership teams are discussing the work itself versus the people involved. When the focus shifts too much towards personalities and conflicts, it's time for an intervention. If this behavior persists, you cannot afford to keep those individuals on the team. It only takes one toxic personality to poison the atmosphere and slow down the entire team's velocity.
