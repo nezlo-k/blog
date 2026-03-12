@@ -3,6 +3,9 @@ title: "Seniority and management ratios"
 date: 2024-06-14
 categories: [Leadership]
 tags: [leadership, management, hiring]
+image:
+  path: /assets/img/seniority-ratios.png
+  alt: "Seniority and management ratios"
 ---
 To keep your organization moving quickly and efficiently, it's essential to maintain the right balance of **seniority ratios** and **management ratios**. When these ratios slip, whether due to an imbalance in experience levels or too many layers of management, it can slow down decision-making, add unnecessary complexity, or prevent the team from executing effectively. The goal is to always aim for the optimal mix and correct any imbalances as they arise.
 
