@@ -3,6 +3,9 @@ title: Track record matters
 date: 2024-02-08
 categories: [Leadership]
 tags: [career, reputation, networking]
+image:
+  path: /assets/img/track-record.png
+  alt: "Track record matters"
 ---
 
 Track records matter.
