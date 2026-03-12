@@ -15,8 +15,8 @@ I don't need to do that. I already passed it, it's in my rear view.
 
 I do it because it's my bike lane.
 
-This is my company.
-These are my people.
+This is my company.  
+These are my people.  
 These are my games.
 
 These are your games too.
