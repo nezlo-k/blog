@@ -7,9 +7,6 @@ tags: [leadership, feedback, management]
 One of the most important takeaways from [The 5 Levels of Leadership](https://www.amazon.fr/Levels-Leadership-Maximize-Potential-English-ebook/dp/B00FOVTKHO/) is the Care and Candor Checklist. This is often a critically missing element in many people as they become leaders, and it can be seen at all levels, from junior all the way to SVP.
 
 Effective leadership requires a delicate balance between **care** and **candor**. Care without candor can lead to dysfunctional relationships, where necessary feedback is withheld, ultimately stifling growth. On the flip side, candor without care fosters distant relationships, creating an environment where feedback may feel cold or unconstructive. To build strong, developing relationships, leaders must master the art of blending both care and candor in their communication.
-
-![Care and Candor Checklist](/assets/img/slide-care-candor.png)
-
 Before having a candid conversation with a team member, it's essential to run through the **Care and Candor Checklist** to ensure the conversation will be productive and not harmful.
 
 1. **Have I invested enough time to be candid with them?**  

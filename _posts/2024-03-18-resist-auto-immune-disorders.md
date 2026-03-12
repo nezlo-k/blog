@@ -4,7 +4,6 @@ date: 2024-03-18
 categories: [Leadership]
 tags: [leadership, culture, teamwork]
 ---
-![Resist Auto-Immune Disorders](/assets/img/slide-auto-immune.png)
 
 Beyond maintaining decorum, leaders must be vigilant in preventing the organizational equivalent of an auto-immune disorder, where teams, departments, or individuals turn against one another. Management is inherently about navigating "messy people problems," but if you find that most of your meetings are consumed by discussions about personalities, politics, or intra-departmental conflicts, you have a serious issue to address.
 

@@ -4,7 +4,6 @@ date: 2024-11-04
 categories: [Leadership]
 tags: [leadership, resilience, growth]
 ---
-![Adversity](/assets/img/slide-adversity.png)
 
 Winning as a team is critical to building momentum and confidence. However, the real growth comes not just from shared victories, but from surviving failures together. Growth is often most clearly expressed through adversity and struggle, situations that test the team's resilience, adaptability, and ability to problem-solve under pressure.
 
