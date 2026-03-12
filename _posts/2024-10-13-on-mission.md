@@ -44,29 +44,9 @@ It's critical to understand that transversal functions, like IT, Security, Legal
 
 However, because these functions are more removed from the core product delivery, they must rely on data the most to ensure they are actually contributing to the mission.
 
-The *invitation to build process cathedrals that are in service to a profession are constant, but this may not be in service to the mission*. Transversal activities must use data to continuously validate their alignment. If what they are building isn't directly driving the mission forward, it needs to be adjusted or minimized. Security, for example, should focus on enabling fast product delivery while maintaining necessary protections, not locking everything down at the cost of speed. Likewise, governance functions might over-focus on creating detailed compliance reports that, while important, don't directly help ship the product faster or improve outcomes.
+The *invitation to build process cathedrals that are in service to a profession are constant, but this may not be in service to the mission*. Transversal activities must use data to continuously validate their alignment. If what they are building isn't directly driving the mission forward, it needs to be adjusted or minimized. If the mission calls for speed, then security should focus on enabling fast product delivery while maintaining necessary protections, not locking everything down at the cost of it. Likewise, governance functions might over-focus on creating detailed compliance reports that, while important, don't directly help ship the product faster or improve outcomes.
 
 Equally, this continuous validation of being on mission via data applies to the teams building the product. If they find themselves going on adventures that stray from the company's mission, they also need to course-correct. *Leadership must use data* to ensure that everyone is effective in working towards the company's objectives, targets, and goals. *It shouldn't be a guess, data is the tool that keeps everyone, including the product teams, aligned and accountable.*
-
-## The key to staying on mission
-
-At the core of everything discussed above is the need to be data-competent.
-
-Without data competence, teams can find themselves off track without realizing it. Imagine a product team launching a feature based on gut feeling, without user analytics to back it up. It might seem aligned with the mission at first, but without data to confirm its impact, the feature could waste time and resources, dragging the mission down rather than pushing it forward.
-
-Every department, whether it's an enabling function like security or a product team, must leverage data to continuously validate that their actions are aligned with the company's core mission. Becoming data-competent isn't just about understanding numbers; it's about *integrating data into decision-making to ensure your efforts are on mission.*
-
-For enabling teams, the role is to empower others with the tools, insights, and frameworks to use data effectively. *But the responsibility to embrace data belongs to everyone.* By becoming data-competent, you ensure that your priorities are on mission, and you create a culture of accountability that pushes the company toward success.
-
-### Incentives drive outcomes
-
-Data competence directly influences how we evaluate success.
-
-Warren Buffett famously said, **"Show me the incentive, and I'll show you the outcome."** If the company isn't seeing the desired results, leadership needs to check the incentives.
-
-One of the clearest applications of data is in how we structure incentives. Are we rewarding behavior that truly drives the mission forward? *Are employees being rewarded for staying aligned with the mission, or are they incentivized to chase off-mission activities?* Compensation should be directly tied to how well individuals and teams stay on mission. Using data to evaluate the performance of activities, teams, objectives, and goals makes this easier and more transparent. Data-informed assessments ensure that people are rewarded for their real contributions to advancing the mission, not just for checking off tasks or following processes that don't drive outcomes.
-
-Continuous improvement in aligning incentives with mission outcomes is key. Incentives drive behavior, and if those behaviors aren't pushing the company forward, it's a sign that something is broken. Data becomes the indispensable tool to evaluate, adjust, and ultimately ensure that compensation motivates people to stay relentlessly mission-focused.
 
 ## Staying on mission is non-stop
 
