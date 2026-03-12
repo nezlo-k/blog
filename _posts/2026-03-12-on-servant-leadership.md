@@ -1,6 +1,6 @@
 ---
 title: "On servant leadership"
-date: 2025-05-12
+date: 2026-03-12
 categories: [Leadership]
 tags: [leadership, management, controversy]
 ---
