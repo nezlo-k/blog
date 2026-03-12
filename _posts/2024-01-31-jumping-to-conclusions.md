@@ -3,6 +3,9 @@ title: Jumping to conclusions
 date: 2024-01-31
 categories: [Leadership]
 tags: [leadership, career, decision-making]
+image:
+  path: /assets/img/jumping-conclusions.png
+  alt: "Jumping to conclusions"
 ---
 
 As a new leader, or someone growing in your career, be careful not to jump to the smartest thing you just thought of in your head without surveying the landscape.
