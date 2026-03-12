@@ -3,6 +3,9 @@ title: On burnout
 date: 2025-06-10
 categories: [Leadership]
 tags: [leadership, burnout, health, management]
+image:
+  path: /assets/img/on-burnout.png
+  alt: "On burnout"
 ---
 
 Knowledge work is akin to being an athlete; the ideal cycle involves "training, sprinting, resting, and then reassessing." However, there are times when we just can't muster the physical or mental resources needed to step up.
