@@ -3,6 +3,9 @@ title: "On servant leadership"
 date: 2026-03-12
 categories: [Leadership]
 tags: [leadership, management, controversy]
+image:
+  path: /assets/img/servant-leadership.png
+  alt: "On servant leadership"
 ---
 Let's get controversial for a moment. The number of people I've met who claim to be servant leaders and can actually ship can be counted on one hand. And this isn't an exaggeration.
 
