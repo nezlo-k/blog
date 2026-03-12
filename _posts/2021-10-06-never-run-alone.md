@@ -1,5 +1,5 @@
 ---
-title: Never run alone
+title: Don't be a lone wolf
 date: 2021-10-06
 categories: [Leadership]
 tags: [leadership, management]
