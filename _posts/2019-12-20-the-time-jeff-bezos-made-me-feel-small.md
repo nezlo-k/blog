@@ -3,6 +3,9 @@ title: The time Jeff Bezos made me feel small
 date: 2019-12-20
 categories: [Stories]
 tags: [leadership, amazon, career]
+image:
+  path: /assets/img/bezos-small.png
+  alt: "The time Jeff Bezos made me feel small"
 ---
 
 Just before COVID hit, my wife was flying back to China to see her grandfather, who sadly passed before she could arrive. When she returned, I wanted her to have a good Christmas — not really her thing, but I figured some gifts would help. One of them: the brand-new AirPods Pro 2. Easy enough, right? Amazon, click, done.
