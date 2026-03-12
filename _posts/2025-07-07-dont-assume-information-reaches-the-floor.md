@@ -3,6 +3,9 @@ title: "Don't assume information reaches the floor"
 date: 2025-07-07
 categories: [Leadership]
 tags: [leadership, communication, management]
+image:
+  path: /assets/img/info-floor.png
+  alt: "Don't assume information reaches the floor"
 ---
 One ritual I've established in my organization is a weekly all-hands message that I personally craft each week. It's not just a summary or newsletter; it's a tool aimed at reducing affinity distance and minimizing confusion about management decisions and ongoing projects.
 
