@@ -1,5 +1,5 @@
 ---
-title: "Fixing broken, the AMD+T(T)R=ECM formula"
+title: "The formula for fixing broken"
 date: 2024-11-04
 categories: [Leadership]
 tags: [leadership, transformation, teams, culture]
