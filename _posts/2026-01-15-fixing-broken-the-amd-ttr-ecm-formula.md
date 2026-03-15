@@ -40,4 +40,6 @@ It's a sequence, not a buffet. Skip a step and the outcome degrades. Follow it a
 
 **Momentum.** Small wins accumulate, confidence compounds, and the cultural shift takes root. This phase is where most leaders declare victory too early. A typical transformation runs 12–18 months depending on scope and tolerance for disruption. Stay in it.
 
+---
+
 The formula highlights a truth that's often missed — transformation is not abstract. It's a deliberate chain of actions: fact-gathering, modeling, diagnosis, talent management, explicit cultural signaling, and finally sustained execution. The sequence matters.
