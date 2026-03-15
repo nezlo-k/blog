@@ -4,7 +4,7 @@ date: 2024-11-11
 categories: [Leadership]
 tags: [leadership, strategy, planning, goals]
 image:
-  path: /assets/img/direction-1-direction.png
+  path: /assets/img/direction-goals-strategy.png
   alt: "Direction ≠ goals ≠ strategy"
 ---
 
