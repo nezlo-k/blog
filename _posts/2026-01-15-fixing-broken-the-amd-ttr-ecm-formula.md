@@ -1,5 +1,5 @@
 ---
-title: "The formula for fixing broken"
+title: "Fixing broken"
 date: 2026-01-15
 categories: [Leadership]
 tags: [leadership, transformation, teams, culture]
