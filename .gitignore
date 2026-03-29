@@ -25,3 +25,25 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# Environment
+.env
+
+.env.*
+
+!.env.example
+
+# Logs
+logs/
+
+*.log
+
+# SQLite
+*.db
+
+*.db-shm
+
+*.db-wal
+
+# OS
+.DS_Store
